@@ -16,3 +16,4 @@ Object.key=+1;
 
 }
 console.log( object2)
+//all is set 
